@@ -306,7 +306,7 @@ def send(title, content):
     :param content:
     :return:
     """
-    content += '\n\n开源免费By: https://github.com/curtinlv/JD-Script'
+    content += '\n\n好运每一天'
     for i in notify_mode:
         if i == 'bark':
             if BARK:
