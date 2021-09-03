@@ -64,7 +64,7 @@ if QYWX_APP:
     notify_mode.append('qywxapp_bot')
     print("企业微信应用 推送打开")
 if PUSH_PLUS_TOKEN:
-    notify_mode.append('push_plus_notif')
+    notify_mode.append('push_plus_notify')
     print("PUSH+ 推送打开")
     
     
